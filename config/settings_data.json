@@ -9,7 +9,7 @@
  */
 {
   "current": {
-    "logo": "shopify://shop_images/Strauto-Logo-Blue.svg",
+    "logo": "shopify://shop_images/ONYSSE_LOGO.png",
     "white_logo": "shopify://shop_images/Strauto-Logo-White_92da18c9-e2ba-4d79-9cac-df8284f5b38c.svg",
     "logo_width": 250,
     "logo_mobile": "",
@@ -113,11 +113,11 @@
     "predictive_search_show_price": true,
     "typewriter_effect_enabled": true,
     "typewriter_starter_text": "Universal Inflator...",
-    "social_facebook_link": "https://www.facebook.com/strauto.brand",
+    "social_facebook_link": "",
     "social_twitter_link": "",
-    "social_instagram_link": "https://www.instagram.com/strauto.brand/",
-    "social_youtube_link": "https://www.youtube.com/@Strautobrand/videos",
-    "social_tiktok_link": "https://www.tiktok.com/@strauto.brand",
+    "social_instagram_link": "",
+    "social_youtube_link": "",
+    "social_tiktok_link": "",
     "social_snapchat_link": "",
     "social_pinterest_link": "",
     "social_tumblr_link": "",
