@@ -56,10 +56,11 @@
         },
         "countdown": {
           "type": "countdown",
+          "disabled": true,
           "settings": {
             "heading": "Hurry up!",
             "subheading": "Sale end in:",
-            "color_text": "#e11d48",
+            "color_text": "#10069f",
             "color_background": "#fff1f2",
             "gradient_background": ""
           }
