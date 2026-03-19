@@ -12,6 +12,17 @@
     "main-product": {
       "type": "main-product",
       "blocks": {
+        "buy_buttons_PH3r4P": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": false,
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": true,
+            "enable_back_in_stock": false,
+            "show_back_in_stock_name": false,
+            "show_back_in_stock_phone": false
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -50,17 +61,6 @@
             "color_scheme": "accent-2"
           }
         },
-        "buy_buttons": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_quantity_selector": false,
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true,
-            "enable_back_in_stock": false,
-            "show_back_in_stock_name": false,
-            "show_back_in_stock_phone": false
-          }
-        },
         "pickup_availability": {
           "type": "pickup_availability",
           "settings": {}
@@ -97,11 +97,11 @@
         }
       },
       "block_order": [
+        "buy_buttons_PH3r4P",
         "title",
         "countdown",
         "variant_picker",
         "inventory",
-        "buy_buttons",
         "pickup_availability",
         "description",
         "share",
@@ -110,19 +110,19 @@
       ],
       "settings": {
         "enable_sticky_info": true,
-        "media_size": 55,
+        "media_size": 48,
         "gallery_layout": "scroll",
         "thumbnail_position": "beside",
-        "image_ratio": "adapt_first",
+        "image_ratio": "adapt",
         "image_zoom": "lightbox",
         "hide_variants": false,
         "enable_video_autoplay": true,
         "enable_video_looping": true,
-        "mobile_layout": "full_width",
-        "image_ratio_mobile": "adapt_first",
+        "mobile_layout": "partial",
+        "image_ratio_mobile": "adapt",
         "mobile_thumbnail": false,
         "padding_top": 0,
-        "padding_bottom": 84,
+        "padding_bottom": 56,
         "divider": false,
         "full_width": true,
         "rounded": false
