@@ -28,6 +28,12 @@
             "text_size": "text-base"
           }
         },
+        "liquid_t4Er66": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "4 personnes regardent ce produit actuellement"
+          }
+        },
         "buy_buttons_PH3r4P": {
           "type": "buy_buttons",
           "settings": {
@@ -106,6 +112,7 @@
       "block_order": [
         "title",
         "text_twqUxJ",
+        "liquid_t4Er66",
         "buy_buttons_PH3r4P",
         "inventory",
         "countdown",
