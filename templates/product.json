@@ -47,7 +47,7 @@
             "inventory_threshold": 15,
             "show_inventory_transfer": true,
             "show_inventory_quantity": "low",
-            "color_scheme": "accent-1"
+            "color_scheme": "accent-2"
           }
         },
         "buy_buttons": {
@@ -125,6 +125,230 @@
         "padding_bottom": 84,
         "divider": false,
         "full_width": true,
+        "rounded": false
+      }
+    },
+    "multicolumn_with_icons_pLLnFE": {
+      "type": "multicolumn-with-icons",
+      "blocks": {
+        "column_iEaYiU": {
+          "type": "column",
+          "settings": {
+            "icon": "truck",
+            "custom_icon": "",
+            "heading": "Livraison Rapide",
+            "text": "<p>Expédié sous 2-3 jours ouvrés</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "column_V9JPyb": {
+          "type": "column",
+          "settings": {
+            "icon": "shield",
+            "custom_icon": "",
+            "heading": "Paiement Sécurisé",
+            "text": "<p>Transactions 100% sécurisées</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "column_xXyEeT": {
+          "type": "column",
+          "settings": {
+            "icon": "organic",
+            "custom_icon": "",
+            "heading": "Bois Naturel",
+            "text": "<p>Matériaux écologiques et durables</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "column_iEaYiU",
+        "column_V9JPyb",
+        "column_xXyEeT"
+      ],
+      "name": "t:sections.multicolumn-with-icons.presets.name",
+      "settings": {
+        "style": "with-border",
+        "columns": 4,
+        "text_alignment": "center",
+        "heading": "",
+        "heading_size": "title-md",
+        "heading_alignment": "text-center md:items-center",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "full_width": false,
+        "rounded": false
+      }
+    },
+    "multicolumn_with_icons_AKEPMN": {
+      "type": "multicolumn-with-icons",
+      "blocks": {
+        "column_7VqKJU": {
+          "type": "column",
+          "settings": {
+            "icon": "eye",
+            "custom_icon": "",
+            "heading": "Prenez-le en main",
+            "text": "<p>Saisissez doucement votre MantaFlow™ et sentez la chaleur du bois naturel dans vos mains.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "column_nENHn3": {
+          "type": "column",
+          "settings": {
+            "icon": "lightning",
+            "custom_icon": "",
+            "heading": "Activez le mouvement",
+            "text": "<p>D'un léger mouvement du poignet, regardez la raie manta prendre vie et glisser gracieusement.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "column_k9GEQ7": {
+          "type": "column",
+          "settings": {
+            "icon": "heart",
+            "custom_icon": "",
+            "heading": "Laissez-vous apaiser",
+            "text": "<p>En 30 à 60 secondes, le stress disparaît. Respirez, observez, et profitez du moment.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "column_7VqKJU",
+        "column_nENHn3",
+        "column_k9GEQ7"
+      ],
+      "name": "t:sections.multicolumn-with-icons.presets.name",
+      "settings": {
+        "style": "with-border",
+        "columns": 3,
+        "text_alignment": "left",
+        "heading": "Comment ça fonctionne",
+        "heading_size": "title-md",
+        "heading_alignment": "text-center md:items-center",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "full_width": false,
+        "rounded": false
+      }
+    },
+    "testimonials_FUxjBW": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_347UAi": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "text": "<p>Ce produit est incroyable ! La qualité du bois est exceptionnelle et le mouvement est hypnotisant. Je l'ai offert à mon mari et il l'adore.</p>",
+            "author": "Sophie M.",
+            "author_info": "",
+            "author_url": "",
+            "image_ratio": "rounded",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "testimonial_rFkQtH": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "author": "Author's name",
+            "author_info": "",
+            "author_url": "",
+            "image_ratio": "rounded",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "testimonial_heVEEc": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "author": "Author's name",
+            "author_info": "",
+            "author_url": "",
+            "image_ratio": "rounded",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_347UAi",
+        "testimonial_rFkQtH",
+        "testimonial_heVEEc"
+      ],
+      "name": "t:sections.testimonials.presets.name",
+      "settings": {
+        "heading": "Ce que nos clients disent",
+        "heading_size": "title-md",
+        "heading_alignment": "text-center md:items-center",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
         "rounded": false
       }
     },
@@ -688,105 +912,6 @@
         "rounded": false
       }
     },
-    "faq": {
-      "type": "faq",
-      "blocks": {
-        "question-1": {
-          "type": "question",
-          "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "question-2": {
-          "type": "question",
-          "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "question-3": {
-          "type": "question",
-          "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "question-4": {
-          "type": "question",
-          "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "question-5": {
-          "type": "question",
-          "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "contact": {
-          "type": "contact",
-          "settings": {
-            "heading": "Didn’t find your answer?",
-            "text": "<p>Don't hestitate to contact us</p>",
-            "show_phone": false,
-            "avatar_height": 60,
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        }
-      },
-      "block_order": [
-        "question-1",
-        "question-2",
-        "question-3",
-        "question-4",
-        "question-5",
-        "contact"
-      ],
-      "settings": {
-        "style": "with-background",
-        "heading": "FAQs",
-        "heading_size": "title-lg tracking-heading",
-        "heading_alignment": "text-left md:items-end md:flex-row",
-        "heading_tag": "h2",
-        "subheading": "",
-        "description": "<p>Please read our <a href=\"#\" title=\"FAQ's\">FAQs</a> page to find out more.</p>",
-        "button_label": "",
-        "button_link": "",
-        "button_external": false,
-        "button_icon": true,
-        "highlighted_text": "none",
-        "highlighted_scribble": "circle",
-        "color_text": "#ffffff",
-        "color_background": "#171717",
-        "gradient_background": "",
-        "color_highlight": "",
-        "gradient_highlight": "",
-        "color_button_text": "#171717",
-        "color_button_background": "#ffffff",
-        "color_button_gradient": "",
-        "color_overlay": "#ffffff",
-        "overlay_opacity": 4,
-        "padding_top": 84,
-        "padding_bottom": 84,
-        "divider": false,
-        "narrow": false,
-        "rounded": false
-      }
-    },
     "17424846885435eb76": {
       "type": "apps",
       "settings": {
@@ -836,6 +961,69 @@
         "rounded": true
       }
     },
+    "rich_text_nghrt8": {
+      "type": "rich-text",
+      "blocks": {
+        "text_NqCRnR": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Chez Xylova, chaque sculpture est bien plus qu'un objet — c'est une histoire, un souvenir, un moment de paix.</p><p>Contrairement aux produits fabriqués en masse, le MantaFlow™ est sculpté à la main, pièce par pièce, avec une attention particulière portée à chaque détail. Nous utilisons uniquement du bois naturel sélectionné pour sa qualité et sa durabilité.</p><p>Nous croyons que les plus beaux cadeaux sont ceux qui créent des souvenirs durables. C'est pourquoi chaque MantaFlow™ est livré dans un emballage cadeau élégant, prêt à être offert à quelqu'un que vous aimez.</p><p>🌊 Fait main avec amour — Xylova</p>",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "button_H4pnJF": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style": "primary",
+            "button_size": "md",
+            "button_external": false,
+            "button_icon": true
+          }
+        }
+      },
+      "block_order": [
+        "text_NqCRnR",
+        "button_H4pnJF"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "text_alignment": "left",
+        "text_alignment_mobile": "left",
+        "heading": "Pourquoi choisir Xylova ?",
+        "heading_size": "title-lg tracking-heading",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_width": "small",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 100,
+        "divider": false,
+        "narrow": true,
+        "rounded": false
+      }
+    },
     "recently-viewed": {
       "type": "recently-viewed",
       "disabled": true,
@@ -871,6 +1059,9 @@
   },
   "order": [
     "main-product",
+    "multicolumn_with_icons_pLLnFE",
+    "multicolumn_with_icons_AKEPMN",
+    "testimonials_FUxjBW",
     "rich_text_7eXCiK",
     "product_details_CYpb9e",
     "help-drawer",
@@ -879,9 +1070,9 @@
     "scrolling-text",
     "image-with-text-2",
     "product-details",
-    "faq",
     "17424846885435eb76",
     "product-recommendations",
+    "rich_text_nghrt8",
     "recently-viewed"
   ]
 }
