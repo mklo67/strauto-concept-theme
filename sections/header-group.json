@@ -18,7 +18,7 @@
           "type": "announcement",
           "settings": {
             "icon": "truck",
-            "text": "<em>Free </em>Shipping On All Orders",
+            "text": "<em><strong>Livraison Gratuite sur tout les produits !</strong></em>",
             "link": "",
             "hide_icon_mobile": true,
             "text_mobile": "",
@@ -30,7 +30,7 @@
           "type": "announcement",
           "settings": {
             "icon": "heart",
-            "text": "<strong>50% Of Net Profits </strong>Given to Charity",
+            "text": "<strong>Livraison en 3 à 8 jours ouvrés</strong>",
             "link": "shopify://pages/about-us",
             "hide_icon_mobile": true,
             "text_mobile": "",
@@ -42,7 +42,7 @@
           "type": "announcement",
           "settings": {
             "icon": "email",
-            "text": "A Question? Visit Our Contact Page.",
+            "text": "30 jours garantie",
             "link": "shopify://pages/contact",
             "hide_icon_mobile": true,
             "text_mobile": "",
@@ -249,13 +249,12 @@
         "mega_menu_6Uw7mq",
         "mega_menu_CKytxW"
       ],
-      "disabled": true,
       "settings": {
         "menu": "main-menu",
         "menu_mobile": "",
         "menu_active": "block",
         "hover_menu": true,
-        "header_layout": "left",
+        "header_layout": "center-split",
         "sticky_header_type": "always",
         "enable_language_selector_desktop": false,
         "enable_country_selector_desktop": false,
