@@ -19,19 +19,8 @@
           "settings": {
             "icon": "support",
             "custom_icon": "",
-            "heading": "Customer service",
-            "text": "<p>Available Mon-Fri, 7am-6pm (CST)<br/>Contact us at (844) 554-0229</p>",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "column_yh63qA": {
-          "type": "column",
-          "settings": {
-            "icon": "heart",
-            "custom_icon": "",
-            "heading": "Strauto Gives Back",
-            "text": "<p>50% of the net profits from your purchase of Strauto products are donated to charities. </p>",
+            "heading": "Service client",
+            "text": "<p>Lundi à vendredi 8h 18h</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -41,8 +30,8 @@
           "settings": {
             "icon": "box",
             "custom_icon": "",
-            "heading": "Fast Free Shipping",
-            "text": "<p>Get free shipping on orders of $50+</p>",
+            "heading": "Livraison Gratuite est rapide.",
+            "text": "<p>Toute les livraisons sont gratuite</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -61,7 +50,6 @@
       },
       "block_order": [
         "column-1",
-        "column_yh63qA",
         "column-2",
         "column-4"
       ],
