@@ -232,7 +232,7 @@
         "button_iQ4Ay6": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "Acheter Maintenant",
             "button_link": "",
             "button_style": "primary",
             "button_size": "md",
