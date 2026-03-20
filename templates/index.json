@@ -8,6 +8,259 @@
  * ------------------------------------------------------------
  */
 {
-  "sections": {},
-  "order": []
+  "sections": {
+    "image_with_text_UWJCHP": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_bFArch": {
+          "type": "heading",
+          "settings": {
+            "heading": "Notre pièce signature",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "text_m6crtC": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Certains objets n'ont pas besoin d'expliquer leur présence. Ils se posent, et la pièce respire différemment.</p>",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "button_BFAa8M": {
+          "type": "button",
+          "settings": {
+            "button_label": "En savoir plus sur la MantaFlow™",
+            "button_link": "shopify://collections/676539597139",
+            "button_style": "primary",
+            "button_size": "md",
+            "button_external": false,
+            "button_icon": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_bFArch",
+        "text_m6crtC",
+        "button_BFAa8M"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/unnamed.png",
+        "image_height": "750px",
+        "image_width": "small",
+        "layout": "image_first",
+        "text_alignment": "left",
+        "content_position": "align-self-center",
+        "image_height_mobile": "auto",
+        "text_alignment_mobile": "left",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_background_2": "",
+        "gradient_background_2": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "divider": false,
+        "full_width": true,
+        "rounded": false,
+        "enable_parallax": true,
+        "parallax_direction": "vertical"
+      }
+    },
+    "featured_collection_DYYDJj": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "collection": "mantaflow™",
+        "products": [],
+        "product_limit": 4,
+        "columns": 4,
+        "carousel_on_desktop": false,
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "heading": "Nos créations",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "full_width": false,
+        "rounded": false
+      }
+    },
+    "rich_text_mRwkGb": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_TjR894": {
+          "type": "heading",
+          "settings": {
+            "heading": "Mon histoire",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "text_hKiQjw": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Enfant, je passais mes étés en Bretagne, chez mon oncle charpentier. Je le regardais travailler en silence — ses mains qui connaissaient le bois mieux que les mots. Un après-midi, il a pris un morceau de chêne et, sans rien dire, il a commencé à tailler. Quelques heures plus tard, il m'a tendu une petite raie aux grandes ailes. « Une raie qui vole dans le bois », m'a-t-il dit avec un sourire.</p><p>J'ai grandi. La ville, le bruit, l'écran. Et puis un jour, en déménageant, j'ai retrouvé cette sculpture au fond d'un carton. Je l'ai tenue dans mes mains et j'ai compris qu'elle m'avait manqué — sans que je le sache.</p><p>Ce bout de bois m'avait accompagné en silence pendant des années. Il n'avait rien fait. Et pourtant, il avait tout changé dans la pièce où il se trouvait.</p><p>C'est pour ça que j'ai créé Xylova. Pour ramener dans les maisons modernes ce que mon oncle savait faire : transformer un morceau de bois en quelque chose de vivant. La MantaFlow™ est la première pièce de cette vision — une sculpture qui ne fait rien, et qui pourtant change tout.</p><p>— Lucas, fondateur de Xylova</p>",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "button_Gzt74q": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style": "primary",
+            "button_size": "md",
+            "button_external": false,
+            "button_icon": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_TjR894",
+        "text_hKiQjw",
+        "button_Gzt74q"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "text_alignment": "left",
+        "text_alignment_mobile": "left",
+        "heading": "",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_width": "medium",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 100,
+        "divider": false,
+        "narrow": true,
+        "rounded": false
+      }
+    },
+    "image_with_text_overlay_fqk9A3": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_Ud7AXp": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "La MantaFlow™ est une sculpture artisanale en bois fait main — pensée pour apporter calme, chaleur et caractère à votre intérieur.",
+            "subheading_size": "subtitle-md",
+            "secondary_color": false
+          }
+        },
+        "heading_qX44rE": {
+          "type": "heading",
+          "settings": {
+            "heading": "L'art du bois, offert à tous.",
+            "heading_size": "title-xl tracking-heading",
+            "heading_tag": "h1",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "text_PckwGE": {
+          "type": "text",
+          "settings": {
+            "text": "<p>— Par Lucas, fondateur de Xylova</p>",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_Ud7AXp",
+        "heading_qX44rE",
+        "text_PckwGE"
+      ],
+      "name": "t:sections.image-with-text-overlay.presets.name",
+      "settings": {
+        "transparent_header": false,
+        "image": "shopify://shop_images/unnamed.png",
+        "image_height": "650px",
+        "content_width": "medium",
+        "content_position": "md:items-center md:justify-start",
+        "text_alignment": "left",
+        "image_height_mobile": "auto",
+        "content_position_mobile": "items-end justify-start",
+        "text_alignment_mobile": "left",
+        "color_text": "#ffffff",
+        "color_highlight": "#e0a580",
+        "gradient_highlight": "",
+        "color_button_text": "#171717",
+        "color_button_background": "#ffffff",
+        "color_button_gradient": "",
+        "color_overlay": "#171717",
+        "overlay_opacity": 50,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "divider": false,
+        "full_width": true,
+        "rounded": false,
+        "enable_parallax": true,
+        "parallax_direction": "vertical"
+      }
+    }
+  },
+  "order": [
+    "image_with_text_UWJCHP",
+    "featured_collection_DYYDJj",
+    "rich_text_mRwkGb",
+    "image_with_text_overlay_fqk9A3"
+  ]
 }
