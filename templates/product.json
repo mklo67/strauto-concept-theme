@@ -21,6 +21,13 @@
             "show_rating": true
           }
         },
+        "text_twqUxJ": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>Paiement 100% sécurisé </strong>🔐",
+            "text_size": "text-base"
+          }
+        },
         "buy_buttons_PH3r4P": {
           "type": "buy_buttons",
           "settings": {
@@ -30,13 +37,6 @@
             "enable_back_in_stock": false,
             "show_back_in_stock_name": false,
             "show_back_in_stock_phone": false
-          }
-        },
-        "text_twqUxJ": {
-          "type": "text",
-          "settings": {
-            "text": "<strong>Paiement 100% sécurisé </strong>🔐",
-            "text_size": "text-base"
           }
         },
         "liquid_t4Er66": {
@@ -112,8 +112,8 @@
       },
       "block_order": [
         "title",
-        "buy_buttons_PH3r4P",
         "text_twqUxJ",
+        "buy_buttons_PH3r4P",
         "liquid_t4Er66",
         "inventory",
         "countdown",
