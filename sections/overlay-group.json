@@ -15,8 +15,8 @@
       "type": "cart-drawer",
       "settings": {
         "show_vendor": false,
-        "show_cart_note": true,
-        "show_shipping_calculator": true,
+        "show_cart_note": false,
+        "show_shipping_calculator": false,
         "show_view_cart_button": true,
         "show_checkout_button": true,
         "show_free_shipping_bar": true,
@@ -28,9 +28,7 @@
         "show_cart_recommendations_price": true,
         "cart_recommendations_products": [],
         "empty_cart_message": "",
-        "empty_cart_collections": [
-          "safety-products"
-        ],
+        "empty_cart_collections": [],
         "recent_products_enabled": false,
         "recent_products_heading": "",
         "recent_products_limit": 5,
@@ -131,28 +129,6 @@
     "age-verifier": {
       "type": "age-verifier",
       "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Confirm your age",
-            "heading_size": "text-lg-2xl",
-            "heading_tag": "h2",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Are you 18 years old or older?</p>",
-            "text_size": "text-base",
-            "text_max_size": 32,
-            "text_font": "body",
-            "secondary_color": false,
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
         "spacing": {
           "type": "spacing",
           "settings": {
@@ -171,8 +147,6 @@
         }
       },
       "block_order": [
-        "heading",
-        "text",
         "spacing",
         "buttons"
       ],
