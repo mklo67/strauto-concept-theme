@@ -9,6 +9,228 @@
  */
 {
   "sections": {
+    "rich_text_WeE7M7": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_EdBrf8": {
+          "type": "heading",
+          "settings": {
+            "heading": "Un mot de Lucas",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "text_P7U4Gj": {
+          "type": "text",
+          "settings": {
+            "text": "<p>On vit dans un monde qui va vite. Trop vite, parfois. Les objets arrivent, repartent, sont remplacés. On achète sans vraiment choisir, et on oublie sans vraiment s'en rendre compte.</p><p>Je ne veux pas créer des objets comme ça.</p><p>Quand mon oncle sculptait, il prenait le temps. Pas parce qu'il était lent — mais parce qu'il respectait le bois, et il respectait celui qui allait le recevoir. C'est cette idée que j'essaie de garder vivante avec Xylova.</p><p>Chaque MantaFlow™ qui part d'ici a été tenue dans des mains humaines. Elle a été regardée, retournée, vérifiée. Elle a une petite histoire avant même d'arriver chez vous.</p><p>Si vous avez une question, une hésitation, ou simplement envie de me parler d'un projet — écrivez-moi. Je réponds personnellement, 7 jours sur 7.</p><p>Merci de faire confiance à ce que nous construisons.</p><p><em>— Lucas, fondateur de Xylova</em></p>",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "button_9Y6UKf": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style": "primary",
+            "button_size": "md",
+            "button_external": false,
+            "button_icon": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_EdBrf8",
+        "text_P7U4Gj",
+        "button_9Y6UKf"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "text_alignment": "left",
+        "text_alignment_mobile": "left",
+        "heading": "",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_width": "medium",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "narrow": true,
+        "rounded": false
+      }
+    },
+    "rich_text_Qwambg": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_tbXny9": {
+          "type": "heading",
+          "settings": {
+            "heading": "Votre tranquillité d'esprit, garantie.",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "text_Et7k3A": {
+          "type": "text",
+          "settings": {
+            "text": "<p>🔄 <strong>Retours gratuits</strong> — 30 jours, sans condition. Frais de retour pris en charge.<br/><br/>🚚 <strong>Livraison rapide</strong> — Préparée le jour même, livrée en 3 à 7 jours ouvrés.<br/><br/>🎁 <strong>Emballage cadeau</strong> — Offert sur demande à la commande. Parfait pour offrir.<br/><br/>⭐ <strong>Qualité garantie</strong> — Chaque pièce contrôlée à la main avant expédition.</p>",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "button_d4gQiU": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style": "primary",
+            "button_size": "md",
+            "button_external": false,
+            "button_icon": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_tbXny9",
+        "text_Et7k3A",
+        "button_d4gQiU"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "text_alignment": "center",
+        "text_alignment_mobile": "left",
+        "heading": "",
+        "heading_size": "title-md",
+        "heading_alignment": "text-center md:items-center",
+        "heading_width": "large",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "narrow": true,
+        "rounded": false
+      }
+    },
+    "rich_text_wyGWg3": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_NjM3xG": {
+          "type": "heading",
+          "settings": {
+            "heading": "La poésie du bois, taillée pour tous.",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "text_DzQCVg": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>Ce que nous croyons, et pourquoi ça guide chaque pièce que nous créons.</em></p><h3>L'artisanat pour tous</h3><p>Nous croyons que la beauté faite à la main ne devrait pas être réservée à quelques-uns.</p><h3>Fait à la main, avec intention</h3><p>Chaque pièce est sculptée une par une. Pas de série. Pas de raccourci. Juste du soin.</p><h3>Des matériaux qui ont du sens</h3><p>Nous choisissons des bois naturels, durables et sourcés avec attention.</p><h3>Des objets qui durent</h3><p>Nous ne créons pas pour la tendance. Nous créons pour que dans dix ans, vous soyez encore content de l'avoir.</p>",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "button_iQ4Ay6": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style": "primary",
+            "button_size": "md",
+            "button_external": false,
+            "button_icon": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_NjM3xG",
+        "text_DzQCVg",
+        "button_iQ4Ay6"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "text_alignment": "center",
+        "text_alignment_mobile": "left",
+        "heading": "",
+        "heading_size": "title-md",
+        "heading_alignment": "text-center md:items-center",
+        "heading_width": "small",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "narrow": true,
+        "rounded": false
+      }
+    },
     "image_with_text_UWJCHP": {
       "type": "image-with-text",
       "blocks": {
@@ -258,6 +480,9 @@
     }
   },
   "order": [
+    "rich_text_WeE7M7",
+    "rich_text_Qwambg",
+    "rich_text_wyGWg3",
     "image_with_text_UWJCHP",
     "featured_collection_DYYDJj",
     "rich_text_mRwkGb",
