@@ -198,7 +198,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "We use cookies",
+            "heading": "Nous utilisons des cookies.🍪",
             "heading_size": "text-lg-2xl",
             "heading_tag": "h2",
             "highlighted_text": "none",
@@ -208,7 +208,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>This site uses cookies for better user experience and analytics.</p>",
+            "text": "<p>Ce site utilise des cookies pour améliorer l'expérience utilisateur et à des fins d'analyse.</p>",
             "text_size": "text-base",
             "text_max_size": 32,
             "text_font": "body",
@@ -227,8 +227,8 @@
         "buttons": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Accept",
-            "button_label_2": "Decline"
+            "button_label_1": "Accepter",
+            "button_label_2": "Refuser"
           }
         }
       },
