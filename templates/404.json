@@ -11,7 +11,7 @@
   "sections": {
     "main-404": {
       "type": "main-404",
-      "disabled": true,
+      "name": "Page D'accueil",
       "settings": {
         "heading_size": "title-xl tracking-heading",
         "heading_tag": "h1",
