@@ -585,7 +585,8 @@
   "shopify": {
     "checkout": {
       "alternative_payment_method_banner": {
-        "express_checkout": "Paiement instantané et sécurisé via nos partenaires"
+        "express_checkout": "Paiement instantané et sécurisé via nos partenaires",
+        "or": "COMMANDEZ DANS LES 24 PROCHAINES HEURES POUR UNE EXPÉDITION PRIORITAIRE ! "
       }
     }
   }
