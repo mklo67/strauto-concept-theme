@@ -158,7 +158,7 @@
         "text_Et7k3A": {
           "type": "text",
           "settings": {
-            "text": "<p>🔄 <strong>Retours gratuits</strong> — 30 jours, sans condition. Frais de retour pris en charge.<br/><br/>🚚 <strong>Livraison rapide</strong> — Préparée le jour même, livrée en 3 à 7 jours ouvrés.<br/><br/>🎁 <strong>Emballage cadeau</strong> — Offert sur demande à la commande. Parfait pour offrir.<br/><br/>⭐ <strong>Qualité garantie</strong> — Chaque pièce contrôlée à la main avant expédition.</p>",
+            "text": "<p>🔄 <strong>Retours gratuits</strong> — 30 jours, sans condition. Frais de retour pris en charge.<br/>🚚 <strong>Livraison rapide</strong> — Préparée le jour même, livrée en 3 à 7 jours ouvrés.<br/>⭐ <strong>Qualité garantie</strong> — Chaque pièce contrôlée à la main avant expédition.</p>",
             "text_size": "subtext-md",
             "text_max_size": 32,
             "text_font": "body",
