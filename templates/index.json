@@ -54,7 +54,7 @@
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/unnamed.png",
-        "image_height": "750px",
+        "image_height": "adapt",
         "image_width": "small",
         "layout": "image_first",
         "text_alignment": "left",
