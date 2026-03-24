@@ -581,14 +581,5 @@
   },
   "date_formats": {
     "month_day_year": "%d %B, %Y"
-  },
-  "shopify": {
-    "checkout": {
-      "payment": {
-        "preview_not_available": {
-          "content": "Ne vous "
-        }
-      }
-    }
   }
 }
