@@ -581,5 +581,12 @@
   },
   "date_formats": {
     "month_day_year": "%d %B, %Y"
+  },
+  "shopify": {
+    "checkout": {
+      "alternative_payment_method_banner": {
+        "express_checkout": "Paiement instantané et sécurisé via nos partenaires"
+      }
+    }
   }
 }
